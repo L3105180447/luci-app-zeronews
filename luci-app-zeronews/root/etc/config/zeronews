@@ -1,0 +1,4 @@
+config zeronews
+	option enabled '0'
+	option logging '0'
+	option token ''
